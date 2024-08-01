@@ -1,0 +1,39 @@
+.app-header a{
+  color: aliceblue;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+
+.header-pag{
+  align-items: center;
+  background-color: #282c34;
+  box-sizing: border-box;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.header-pag h1{
+  margin-left: 20px;
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  gap: 20px;
+  color: aliceblue;
+}
+img{
+  height: 400px;
+  width: 800px;
+}
+.content{
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  gap: 40px;
+}
+.paragrafo{
+  margin-bottom: 12px;
+};
